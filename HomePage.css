@@ -1,16 +1,23 @@
 body {
-    background-color: burlywood;
+    background-color: whitesmoke;
+    margin: 0;
 }
 
 nav {
     text-align: center;
+    color:black; 
+    background-color: lightskyblue;
+    border-style: solid;
+    max-width: 350px; 
+    margin: 0;
+  
+    
+    
+ 
 }
-
-
 
 h1 {
     text-align: center;
-
 }
 
 h2 {
