@@ -1,6 +1,5 @@
 body {
     background-color: whitesmoke;
-    margin: 0;
 }
 
 nav {
@@ -8,12 +7,6 @@ nav {
     color:black; 
     background-color: lightskyblue;
     border-style: solid;
-    max-width: 350px; 
-    margin: 0;
-  
-    
-    
- 
 }
 
 h1 {
